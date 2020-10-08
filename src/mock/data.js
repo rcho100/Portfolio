@@ -19,13 +19,12 @@ export const heroData = {
 export const aboutData = {
   img: 'profile.jpg',
   paragraphOne:
-    'I am a full-stack software engineer with experience in React, Redux, JavaScript, Ruby on Rails, SQL, CSS, and HTML.',
+    'I am a full-stack software engineer with experience in React, Redux, JavaScript ES5/ES6-9, Ruby on Rails, SQL, CSS3, and HTML.',
   paragraphTwo:
-    'After I worked a few years in the wholesale insurance industry, I returned to school to meet CPA License requirements when I fell in love with coding.',
+    'After working a few years in the wholesale insurance industry, I returned to school to meet CPA License requirements when I fell in love with coding.',
   paragraphThree:
-    "Along with my technical skills, I possess strong skills in teamwork and in client service. I'm excited to continue to learn and grow and hopefully make the world a better place.",
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
-  // https://www.linkedin.com/in/richard-cho-166b301b2
+    "Along with my technical skills, I possess strong skills in teamwork and in client service, which I developed in my previous role in the wholesale insurance industry. I'm looking to work to continue to learn and grow as a software engineer.",
+  resume: 'https://drive.google.com/file/d/1vKd_bO_oqIUhyaW1uW8Gx94qf9XuNRq8/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
@@ -40,7 +39,6 @@ export const projectsData = [
       'Built with: React, React Router, Redux, Rails RESTful JSON API, PostgreSQL, Bcrypt, Session Cookies, React-Bootstrap, & Custom CSS',
     url: '',
     repo: 'https://github.com/rcho100/movie-central-frontend',
-    // https://github.com/rcho100/movie-central-backend
   },
   {
     id: nanoid(),
@@ -52,7 +50,6 @@ export const projectsData = [
       'Built with: Vanilla JavaScript, Rails RESTful JSON API, JWT Tokens, Bcrypt, PostgreSQL, & Custom CSS',
     url: 'https://rcho100.github.io/community-library-frontend',
     repo: 'https://github.com/rcho100/community-library-frontend',
-    // https://github.com/rcho100/community-library-api
   },
   {
     id: nanoid(),
