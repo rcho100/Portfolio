@@ -19,11 +19,11 @@ export const heroData = {
 export const aboutData = {
   img: 'profile.jpg',
   paragraphOne:
-    'I am a full-stack software developer with experience in React, Redux, JavaScript, Ruby on Rails, SQL, CSS, and HTML.',
+    'I am a full-stack software engineer with experience in React, Redux, JavaScript, Ruby on Rails, SQL, CSS, and HTML.',
   paragraphTwo:
-    'Coming from an Economics background, I returned to school to meet CPA License requirements when I fell in love with coding, and I have continued evolving as a software developer ever since.',
+    'After I worked a few years in the wholesale insurance industry, I returned to school to meet CPA License requirements when I fell in love with coding.',
   paragraphThree:
-    "Along with my technical skills, I possess strong skills in teamwork and in client service, which I developed in my previous role in the wholesale insurance industry. I'm excited to continue to learn and grow and hopefully make the world a better place.",
+    "Along with my technical skills, I possess strong skills in teamwork and in client service. I'm excited to continue to learn and grow and hopefully make the world a better place.",
   resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
   // https://www.linkedin.com/in/richard-cho-166b301b2
 };
@@ -32,36 +32,36 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project.jpg',
+    img: 'movie-central.png',
     title: 'Movie Central',
     info:
       'Movie Central is a web app that allows users to browse through currently popular movies and top rated movies. Users can also create an account to add movies to their own watchlist.',
     info2:
-      'Uses React, React Router, Redux, Rails RESTful JSON API, PostgreSQL, Bcrypt, Session Cookies, React-Bootstrap, & Custom CSS',
+      'Built with: React, React Router, Redux, Rails RESTful JSON API, PostgreSQL, Bcrypt, Session Cookies, React-Bootstrap, & Custom CSS',
     url: '',
     repo: 'https://github.com/rcho100/movie-central-frontend',
     // https://github.com/rcho100/movie-central-backend
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
+    img: 'community-library.png',
     title: 'Community Library',
     info:
       'Community Library is a web app that assists students in literature clubs to borrow and return classic literature books.',
     info2:
-      'Built with Vanilla JavaScript, Rails RESTful JSON API, JWT Tokens, Bcrypt, PostgreSQL, & Custom CSS',
+      'Built with: Vanilla JavaScript, Rails RESTful JSON API, JWT Tokens, Bcrypt, PostgreSQL, & Custom CSS',
     url: 'https://rcho100.github.io/community-library-frontend',
     repo: 'https://github.com/rcho100/community-library-frontend',
     // https://github.com/rcho100/community-library-api
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
+    img: 'save-the-food.png',
     title: 'Save the Food',
     info:
       'Save-the-Food is a place where you can store your favorite recipes and also view recipes that other users have added in. You also have the option of rating and reviewing any of the recipes you see.',
-    info2: 'Built with Rails, PostgreSQL, Bcrypt, Omniauth-Google, Bootstrap, & Custom CSS',
-    url: '',
+    info2: 'Built with: Rails, PostgreSQL, Bcrypt, Omniauth-Google, Bootstrap',
+    url: 'https://drive.google.com/file/d/19KANxQVXjKpxId7xywLkn9-4pJS9rh7G/view?usp=sharing',
     repo: 'https://github.com/rcho100/Save-the-Food',
   },
 ];
@@ -70,7 +70,7 @@ export const projectsData = [
 export const contactData = {
   cta: '',
   btn: '',
-  email: '',
+  email: 'richardcho100@gmail.com',
 };
 
 // FOOTER DATA
@@ -91,5 +91,5 @@ export const footerData = {
 
 // Github start/fork buttons
 export const githubButtons = {
-  isEnabled: true, // set to false to disable the GitHub stars/fork buttons
+  isEnabled: false, // set to false to disable the GitHub stars/fork buttons
 };
