@@ -37,7 +37,7 @@ export const projectsData = [
       'Movie Central is a web app that allows users to browse through currently popular movies and top rated movies. Users can also create an account to add movies to their own watchlist.',
     info2:
       'Built with: React, React Router, Redux, Rails RESTful JSON API, PostgreSQL, Bcrypt, Session Cookies, React-Bootstrap, & Custom CSS',
-    url: '',
+    url: 'https://moviecentral.netlify.app',
     repo: 'https://github.com/rcho100/movie-central-frontend',
   },
   {
