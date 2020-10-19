@@ -24,7 +24,8 @@ export const aboutData = {
     'After working a few years in the wholesale insurance industry, I returned to school to meet CPA License requirements when I fell in love with coding.',
   paragraphThree:
     "Along with my technical skills, I possess strong skills in teamwork and in client service, which I developed in my previous role in the wholesale insurance industry. I'm looking to work to continue to learn and grow as a software engineer.",
-  resume: 'https://drive.google.com/file/d/1vKd_bO_oqIUhyaW1uW8Gx94qf9XuNRq8/view?usp=sharing', // if no resume, the button will not show up
+  resume:
+    'https://docs.google.com/document/d/1ovW9_QqjbMGBMPvAUszB2zt96XBH10Aq6Mwa1ZAV9LY/edit?usp=sharing',
 };
 
 // PROJECTS DATA
@@ -47,9 +48,19 @@ export const projectsData = [
     info:
       'Community Library is a web app that assists students in literature clubs to borrow and return classic literature books.',
     info2:
-      'Built with: Vanilla JavaScript, Rails RESTful JSON API, JWT Tokens, Bcrypt, PostgreSQL, & Custom CSS',
+      'Built with: JavaScript, Rails RESTful JSON API, JWT Tokens, Bcrypt, PostgreSQL, & Custom CSS',
     url: 'https://rcho100.github.io/community-library-frontend',
     repo: 'https://github.com/rcho100/community-library-frontend',
+  },
+  {
+    id: nanoid(),
+    img: 'breathe-to-relax.png',
+    title: 'Breathe to Relax',
+    info:
+      'Breathe to Relax is a web app designed to help people take deep breaths to help relax their mind and body.',
+    info2: 'Built with: HTML, CSS, JavaScript',
+    url: 'https://breathetorelax.netlify.app',
+    repo: 'https://github.com/rcho100/Breathe-to-Relax',
   },
   {
     id: nanoid(),
