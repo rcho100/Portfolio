@@ -24,8 +24,7 @@ export const aboutData = {
     'After working a few years in the wholesale insurance industry, I returned to school to meet CPA License requirements when I fell in love with coding.',
   paragraphThree:
     "Along with my technical skills, I possess strong skills in teamwork and in client service, which I developed in my previous role in the wholesale insurance industry. I'm looking to work to continue to learn and grow as a software engineer.",
-  resume:
-    'https://docs.google.com/document/d/1ovW9_QqjbMGBMPvAUszB2zt96XBH10Aq6Mwa1ZAV9LY/edit?usp=sharing',
+  resume: 'https://drive.google.com/file/d/1pg45ztwtgQOF5S8NVrUukSKGhuggWS-C/view?usp=sharing',
 };
 
 // PROJECTS DATA
@@ -87,7 +86,7 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'linkedin',
-      url: 'https://www.linkedin.com/in/richard-cho-166b301b2',
+      url: 'https://www.linkedin.com/in/richardcho100',
     },
     {
       id: nanoid(),
