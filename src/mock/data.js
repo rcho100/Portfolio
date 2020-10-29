@@ -4,7 +4,7 @@ import { nanoid } from 'nanoid';
 export const headData = {
   title: 'Richard Cho | Full-Stack Sofware Engineer',
   lang: 'en', // e.g: en, es, fr, jp
-  description: 'Welcome to my portfolio site', // e.g: Welcome to my website
+  description: 'Welcome to my portfolio site',
 };
 
 // HERO DATA
@@ -12,19 +12,18 @@ export const heroData = {
   title: 'Hi, my name is',
   name: 'Richard Cho',
   subtitle: 'Welcome to my portfolio site!',
-  cta: '',
 };
 
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
   paragraphOne:
-    'I am a full-stack software engineer with experience in React, Redux, JavaScript ES5/ES6-9, Ruby on Rails, SQL, CSS3, and HTML.',
+    'I am a full stack software engineer that specializes in React, Redux, JavaScript, Ruby on Rails and PostgreSQL. I also have experience in HTML, CSS, Sass, TypeScript, Node.js and Express.js.',
   paragraphTwo:
-    'After working a few years in the wholesale insurance industry, I returned to school to meet CPA License requirements when I fell in love with coding.',
+    'After working a few years in the wholesale insurance industry, I returned to school to meet CPA License requirements when I fell in love with solving problems and building things with code.',
   paragraphThree:
-    "Along with my technical skills, I possess strong skills in teamwork and in client service, which I developed in my previous role in the wholesale insurance industry. I'm looking to work to continue to learn and grow as a software engineer.",
-  resume: 'https://drive.google.com/file/d/1pg45ztwtgQOF5S8NVrUukSKGhuggWS-C/view?usp=sharing',
+    "Along with my technical skills, I possess strong skills in teamwork and in client service. I'm looking to work with a great team to continue to learn and solve things together.",
+  resume: 'https://drive.google.com/file/d/1O-5J4G2sWg0DLHuMk-_hhziqOw_Vno3d/view?usp=sharing',
 };
 
 // PROJECTS DATA
@@ -75,8 +74,6 @@ export const projectsData = [
 
 // CONTACT DATA
 export const contactData = {
-  cta: '',
-  btn: '',
   email: 'richardcho100@gmail.com',
 };
 
