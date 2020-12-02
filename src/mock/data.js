@@ -20,7 +20,7 @@ export const aboutData = {
   paragraphOne:
     'I am a full stack software engineer that specializes in React, Redux, JavaScript, Ruby on Rails and PostgreSQL. I also have experience in HTML, CSS, Sass, TypeScript, Node.js and Express.js.',
   paragraphTwo:
-    'After working a few years in the wholesale insurance industry, I decided to attend Flatiron School’s software engineering program after I fell in love with solving problems and building things with code.',
+    'After working a few years in the wholesale insurance industry, I attended Flatiron School’s software engineering program after I fell in love with solving problems and building things with code.',
   paragraphThree:
     "Along with my technical skills, I have strong interpersonal skills working in a team and I have experience in facing clients. I'm looking to work with a great team to continue to learn and solve things together.",
   resume: 'https://drive.google.com/file/d/1A6q6iqqmQIo2YNc8I5vN9i1BIWuUUuXP/view?usp=sharing',
