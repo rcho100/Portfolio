@@ -36,7 +36,7 @@ export const projectsData = [
       'Movie Central is a web app that allows users to browse through currently popular movies and top rated movies. Users can also create an account to add movies to their own watchlist.',
     info2:
       'Built with: React, React Router, Redux, Rails RESTful JSON API, PostgreSQL, React-Bootstrap, Responsive Custom CSS',
-    url: 'https://moviecentral.netlify.app',
+    url: 'https://youtu.be/roVx_cITA9U',
     repo: 'https://github.com/rcho100/movie-central-frontend',
   },
   {
@@ -46,7 +46,7 @@ export const projectsData = [
     info:
       'Community Library is a web app that assists students in literature clubs to borrow and return classic literature books.',
     info2: 'Built with: JavaScript, Rails RESTful JSON API, PostgreSQL, & Responsive Custom CSS',
-    url: 'https://rcho100.github.io/community-library-frontend',
+    url: 'https://youtu.be/jVz0KxiH4EQ',
     repo: 'https://github.com/rcho100/community-library-frontend',
   },
   {
@@ -56,7 +56,7 @@ export const projectsData = [
     info:
       'Save-the-Food is a place where you can store your favorite recipes and also view recipes that other users have added in. You also have the option of rating and reviewing any of the recipes you see.',
     info2: 'Built with: Rails, PostgreSQL, Bcrypt, Omniauth, Bootstrap',
-    url: 'https://drive.google.com/file/d/19KANxQVXjKpxId7xywLkn9-4pJS9rh7G/view?usp=sharing',
+    url: 'https://youtu.be/oKsad37Ow-Y',
     repo: 'https://github.com/rcho100/Save-the-Food',
   },
 ];
