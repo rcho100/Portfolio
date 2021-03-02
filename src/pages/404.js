@@ -5,7 +5,7 @@ import { Container } from 'react-bootstrap';
 import Fade from 'react-reveal/Fade';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-import { headData } from '../mock/data';
+import { headData } from '../richard/data';
 import '../style/main.scss';
 
 export default () => {
@@ -16,7 +16,7 @@ export default () => {
       <Helmet>
         <meta charSet="utf-8" />
         <title>Page not found</title>
-        <html lang={lang || 'en'} />
+        <html lang={lang} />
         <meta name="description" content="Page not found" />
       </Helmet>
       <section id="hero" className="jumbotron">

@@ -3,14 +3,14 @@ import { nanoid } from 'nanoid';
 // HEAD DATA
 export const headData = {
   title: 'Richard Cho | Full Stack Sofware Engineer',
-  lang: 'en', // e.g: en, es, fr, jp
+  lang: 'en',
   description: 'Welcome to my portfolio site',
 };
 
 // HERO DATA
 export const heroData = {
   title: 'Hi, my name is',
-  name: 'Richard Cho',
+  name: ' Richard Cho',
   subtitle: 'Welcome to my portfolio site!',
 };
 
@@ -84,5 +84,5 @@ export const footerData = {
 
 // Github start/fork buttons
 export const githubButtons = {
-  isEnabled: false, // set to false to disable the GitHub stars/fork buttons
+  isEnabled: false,
 };
