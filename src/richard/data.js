@@ -51,6 +51,16 @@ export const projectsData = [
   },
   {
     id: nanoid(),
+    img: 'breathe-to-relax.png',
+    title: 'Breathe to Relax',
+    info:
+      'Breathe to Relax is a web app you can use to help you take deep breathes to relax by visually showing the duration of each breathe you should take.',
+    info2: 'Built with: JavaScript, CSS and HTML',
+    url: 'https://breathetorelax.netlify.app/',
+    repo: 'https://github.com/rcho100/Breathe-to-Relax',
+  },
+  {
+    id: nanoid(),
     img: 'save-the-food.png',
     title: 'Save the Food',
     info:
