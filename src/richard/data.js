@@ -51,6 +51,16 @@ export const projectsData = [
   },
   {
     id: nanoid(),
+    img: 'office-quote-generator.png',
+    title: 'The Office Quote Generator ',
+    info:
+      'A handy website that provides random quotes from the office. A must visit for a fan of The Office.',
+    info2: 'Built with: React, React Hooks, CSS',
+    url: 'https://rcho100.github.io/office-quote-generator/',
+    repo: 'https://github.com/rcho100/office-quote-generator',
+  },
+  {
+    id: nanoid(),
     img: 'breathe-to-relax.png',
     title: 'Breathe to Relax',
     info:
